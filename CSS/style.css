@@ -21,6 +21,10 @@ p {
     font-size: 0.95rem;
 
 }
+img {
+    margin: auto;
+    max-width: 50%;
+}
 
 footer {
     padding-top: 20rem;
